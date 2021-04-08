@@ -1,6 +1,6 @@
 ![](img/newlogo.png)
 
-**Course Date:** 09.04.2021 
+**Course Date:** 09.04.2021   
 **Name:** Nuh Yiğit  
 **Surname:** Akman  
 **Email:** akmannuhyigit@gmail.com  
